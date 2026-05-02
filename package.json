@@ -1,0 +1,12 @@
+{
+  "name": "orakzai-luxury-fleet-management-premium-424",
+  "version": "1.0.0",
+  "description": "Luxury Fleet Management — Premium vehicle tracking & concierge",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
